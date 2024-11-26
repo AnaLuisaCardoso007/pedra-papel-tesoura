@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #22252c;
+    background-color: hsl(222, 100%, 79%), 100%, 79%);
 }
 
 header{
@@ -14,7 +14,7 @@ header{
 }
 
 header > h1{
-    color:blueviolet;
+    color:#3d50ff
     text-align: center;
     font-family: sans-serif;
 }
